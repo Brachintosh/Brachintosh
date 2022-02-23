@@ -1,12 +1,29 @@
 ## Hi there, I'm Brian Ezequiel Bedendo.<img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px>
-
-<div align="center">
-<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47xzqo1y8pyyyn9acydhygax78mwbcb3w0nhm8o7l4&rid=giphy.gif&ct=g" align="center" style="width: 70%" />
-</div> 
-
 <p align='center'>
 <h3 align="center">I'm a passionate full-stack developer from Buenos Aires, Argentina 📍. I consider myself a curious person, who likes to investigate by their own means, an eternal self-taught student with an insatiable thirst for knowledge.</h3>
 
+<div align="center">
+<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47xzqo1y8pyyyn9acydhygax78mwbcb3w0nhm8o7l4&rid=giphy.gif&ct=g" align="center" style="width: 70%" />
+</div>
+
+```javascript
+const brianBedendo = {
+    pronouns: "he" | "His",
+    askMeAbout: ["DataBase", "UX", "UI", "design", "team"],
+    languages: ["spanish", "english", "portuguese"],
+    technologies: {
+        frontEnd: {
+            javascript: ["React", "Redux"],
+            css: ["bootstrap", "CSS"]
+        },
+        backEnd: ["Node JS", "Express"],
+        databases: ["Sql", "postgres", "MySQL"],
+        tools: ["VS Code", "git", "github", "postman"]
+        networking: ["LinkedIn", "Twitter", "Instagram"],
+        extras: ["scrum", "mirro", "trello", "slack"],
+    }
+};
+```
 
 - 🌱 I’m currently learning **JavaScript, and other technologies.**
 
@@ -17,7 +34,7 @@
 - 📫 How to reach me **bedendo.br@gmail.com**
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/brian-ezequiel-bedendo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-ezequiel-bedendo/" height="30" width="40" /></a>
 </p>
 
