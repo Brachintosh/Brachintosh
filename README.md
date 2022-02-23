@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brachintosh&show_icons=true&locale=en&layout=compact" alt="brachintosh" /></p></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brachintosh&show_icons=true&locale=en" alt="brachintosh" /></p></br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=brachintosh&show_icons=true&locale=en" alt="brachintosh" /></p></br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brachintosh" alt="brachintosh" /></a> </p>
 
