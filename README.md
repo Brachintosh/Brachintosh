@@ -1,14 +1,16 @@
-## Hola, soy Brian Ezequiel Bedendo.<img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px>
+## Hi there, I'm Brian Ezequiel Bedendo.<img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px>
 
 <div align="center">
 <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47xzqo1y8pyyyn9acydhygax78mwbcb3w0nhm8o7l4&rid=giphy.gif&ct=g" align="center" style="width: 70%" />
 </div> 
 
 <p align='center'>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h3 align="center">A passionate I'm a full-stack developer from Buenos Aires, Argentina 📍.I consider myself a curious person, who likes to investigate by their own means, an eternal self-taught student with an insatiable thirst for knowledge.</h3>
 
 
 - 🌱 I’m currently learning **JavaScript, and other technologies.**
+
+- 🔭 I’m currently working on **SPA project.**
 
 - 💬 Ask me about **Front-end and pure CSS.**
 
