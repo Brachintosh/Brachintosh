@@ -4,7 +4,7 @@
 
 <div align="center">
 <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47xzqo1y8pyyyn9acydhygax78mwbcb3w0nhm8o7l4&rid=giphy.gif&ct=g" align="center" style="width: 70%" />
-</div>
+</div><br/><br/>
 
 ```javascript
 const brianBedendo = {
@@ -18,9 +18,10 @@ const brianBedendo = {
         },
         backEnd: ["Node JS", "Express"],
         databases: ["Sql", "postgres", "MySQL"],
-        tools: ["VS Code", "git", "github", "postman"]
+        tools: ["VS Code", "git", "github", "postman"],
         networking: ["LinkedIn", "Twitter", "Instagram"],
         extras: ["scrum", "mirro", "trello", "slack"],
+        hobbies: ["art", "circus", "juggling", "rowing", "gardening"],
     }
 };
 ```
