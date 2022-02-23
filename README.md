@@ -5,7 +5,7 @@
 </div> 
 
 <p align='center'>
-<h3 align="center">A passionate I'm a full-stack developer from Buenos Aires, Argentina 📍.I consider myself a curious person, who likes to investigate by their own means, an eternal self-taught student with an insatiable thirst for knowledge.</h3>
+<h3 align="center">I'm a passionate full-stack developer from Buenos Aires, Argentina 📍. I consider myself a curious person, who likes to investigate by their own means, an eternal self-taught student with an insatiable thirst for knowledge.</h3>
 
 
 - 🌱 I’m currently learning **JavaScript, and other technologies.**
