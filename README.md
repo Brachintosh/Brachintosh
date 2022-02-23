@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi there! 👋, I'm Brian Ezequiel Bedendo</h1>
+<h1>< Hola, soy Brian Ezequiel Bedendo/>! <img src = "https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47xzqo1y8pyyyn9acydhygax78mwbcb3w0nhm8o7l4&rid=giphy.gif&ct=g" width = 50px> </h1>
+<p align='center'>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
 
