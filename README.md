@@ -1,4 +1,9 @@
+<div align="center">
+<img src="https://github.com/Brachintosh/Brachintosh/blob/main/LinkedIn%20Banner%20Amarillo%20Monocromo%20Foto.png" align="center" style="width: 100%" />
+</div><br/><br/>
+
 ## Hi there, I'm Brian Ezequiel Bedendo.<img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px>
+
 <p align='center'>
 <h3 align="center">I'm a passionate full-stack developer from Buenos Aires, Argentina 📍. I consider myself a curious person, who likes to investigate by their own means, an eternal self-taught student with an insatiable thirst for knowledge.</h3>
 
