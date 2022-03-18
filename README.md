@@ -31,7 +31,7 @@ const brianBedendo = {
 };
 ```
 
-- 🌱 I’m currently learning **JavaScript, and other technologies.**
+- 🌱 I’m currently learning **Kotlin, JavaScript, and other technologies.**
 
 - 🔭 I’m currently working on **SPA project.**
 
