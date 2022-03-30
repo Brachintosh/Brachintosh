@@ -19,7 +19,7 @@ const brianBedendo = {
     technologies: {
         frontEnd: {
             javascript: ["React", "Redux"],
-            css: ["bootstrap", "CSS"]
+            css: ["Material UI", "Tailwind","bootstrap", "CSS"]
         },
         backEnd: ["Node JS", "Express"],
         databases: ["Sql", "postgres", "MySQL"],
@@ -33,9 +33,9 @@ const brianBedendo = {
 
 - 🌱 I’m currently learning **Kotlin, JavaScript, and other technologies.**
 
-- 🔭 I’m currently working on **SPA project.**
+- 🔭 I’m currently working on **SPA Portfolio project.**
 
-- 💬 Ask me about **Front-end and pure CSS.**
+- 💬 Ask me about **Front-end dependencies and pure CSS.**
 
 - 📫 How to reach me **bedendo.br@gmail.com**
 
