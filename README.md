@@ -30,6 +30,7 @@ const brianBedendo = {
     }
 };
 ```
+- 📚 Personal Portfolio: **https://portfolio-bedendo-brian.vercel.app/**
 
 - 🌱 I’m currently learning **Kotlin, JavaScript, and other technologies.**
 
