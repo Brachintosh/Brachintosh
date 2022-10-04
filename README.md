@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Brachintosh/Brachintosh/blob/main/LinkedIn%20Banner%20Amarillo%20Monocromo%20Foto.png" align="center" style="width: 100%" />
+<img src="https://github.com/Brachintosh/Brachintosh/blob/main/newLinkedIn-Banner-brachintosh.png" align="center" style="width: 100%" />
 </div><br/><br/>
 
 ## Hi there, I'm Brian Ezequiel Bedendo.<img src = "https://github.com/DamianYerien/DamianYerien/blob/34d15aefb3fe1cdcd3ab7f1813ec8e593ebe654e/wave.gif" width = 50px>
